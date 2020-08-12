@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Mitch, I am a front-end developer living in Brisbane, Australia.
+My name is Mitch, I am a Full-Stack Developer living in Brisbane, Australia.
 
 I would take whatever you see in these public GitHub repos with a grain of salt...They are mostly side projects and built with questionable practices and commit hygiene! 😅
 
-Hit me up on twitter if you want to chat! ❤️
+Hit me up on <a href="https://twitter.com/mitchbne" target="_blank">twitter</a> if you want to chat! ❤️
 <!--
 **mitchbne/mitchbne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
